@@ -1,0 +1,14 @@
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\bin\Debug\net8.0\ConsoleAppIra6.exe
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\bin\Debug\net8.0\ConsoleAppIra6.deps.json
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\bin\Debug\net8.0\ConsoleAppIra6.runtimeconfig.json
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\bin\Debug\net8.0\ConsoleAppIra6.dll
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\bin\Debug\net8.0\ConsoleAppIra6.pdb
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.AssemblyInfo.cs
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.dll
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\refint\ConsoleAppIra6.dll
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.pdb
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ConsoleAppIra6.genruntimeconfig.cache
+C:\Users\prdb\source\repos\cbuvf\ConsoleAppIra6\obj\Debug\net8.0\ref\ConsoleAppIra6.dll
