@@ -27,8 +27,8 @@ for (int i = 1; i <= n; i++)
     integral += f(xMiddle) * h;
 }
 
-Console.WriteLine($"Приближённое значение интеграла методом средних треугольников: {integral:F4}");
-//txt.WriteLine($"Приближённое значение интеграла методом средних треугольников: {integral:F4}");
+Console.WriteLine($"Приближённое значение интеграла методом средних прямоугольников: {integral:F4}");
+//txt.WriteLine($"Приближённое значение интеграла методом средних прямоугольников: {integral:F4}");
 //txt.Close();
 
 Console.ReadKey();
