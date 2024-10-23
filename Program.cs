@@ -1,4 +1,4 @@
-﻿//StreamWriter txt = new StreamWriter("C:/Users/prdb/source/cbufb/ConsoleAppIra6/test.txt");
+﻿//StreamWriter txt = new StreamWriter("C:/Users/prdb/source/repos/cbuvf/ConsoleAppIra6/test.txt");
 Console.WriteLine("Введите значение нижнего предела интегрирования: ");
 double a = Convert.ToDouble(Console.ReadLine());
 
@@ -11,7 +11,7 @@ if (a >= b)
     return;
 }
 
-Console.WriteLine("Введите количество разбиений интеграла на треугольники: ");
+Console.WriteLine("Введите количество разбиений интеграла на прямогульники: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 
@@ -28,7 +28,7 @@ for (int i = 1; i <= n; i++)
 }
 
 Console.WriteLine($"Приближённое значение интеграла методом средних треугольников: {integral:F4}");
-//txt.WriteLine($"Приближённое значение интеграла методом средних треугольников: {integral}");
+//txt.WriteLine($"Приближённое значение интеграла методом средних треугольников: {integral:F4}");
 //txt.Close();
 
 Console.ReadKey();
