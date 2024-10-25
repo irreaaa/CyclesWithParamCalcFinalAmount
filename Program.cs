@@ -22,7 +22,8 @@ Func<double, double> f = x => 2 * Math.Pow(x, 2) + 3 * x;
 double integral = 0;
 for (int i = 1; i <= n; i++)
 {
-    double xMiddle = a + (i - 1 + 0.5) * h;
+    double xMiddle = a + (i - 0.5) * h;
+    //double xMiddle = a + i * (0.5*h);
 
     integral += f(xMiddle) * h;
 }
